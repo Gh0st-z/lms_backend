@@ -1,0 +1,5 @@
+/virtualenvs
+.activate_env.bat
+.localsettings.py
+*.pyc
+__pycache__/
