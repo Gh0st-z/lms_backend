@@ -3,3 +3,4 @@ activate_env.bat
 localsettings.py
 *.pyc
 __pycache__/
+.env
